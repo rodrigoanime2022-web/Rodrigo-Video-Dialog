@@ -1,0 +1,6 @@
+{
+  "name": "Rodrigo Video Dialog",
+  "description": "Transforme cenas de vídeos em diálogos e roteiros inteligentes com IA, adicionando Rodrigo na cena de forma dinâmica e divertida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
